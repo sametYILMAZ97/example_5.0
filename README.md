@@ -9,7 +9,7 @@ React ta iç içe olmasıyla 1, 2 ve 3 component olsun 1 den 3 e veri iletemiyor
 	Bootstrap sayfayı 12 eşit row parçasına ayırıyor.
   
   
-  # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+  # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
   Functional Component: 
 		Sadece ekranda belirli bir miktar içerik göstermek için kullanılır.(?)
 		HTTP isteği gönderilmez.
@@ -35,7 +35,7 @@ React ta iç içe olmasıyla 1, 2 ve 3 component olsun 1 den 3 e veri iletemiyor
 			  );
 			}
       
-  # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+  # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
   Class Based Component:
 		HTTP isteği gönderilir.
 		Bütün veri işlemelerde kullanılır.(?)
